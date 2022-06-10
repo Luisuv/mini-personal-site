@@ -88,6 +88,12 @@ a:focus {
 }
 
 @media(min-width: 660px) {
+    
+    body, html {
+        display: block;
+        width: auto;
+        margin: center;
+    }
 
     img {
         max-width: 250px;
