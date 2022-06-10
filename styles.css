@@ -89,9 +89,9 @@ a:focus {
 
 @media(min-width: 660px) {
     
-    body, html {
+    body {
         display: block;
-        width: auto;
+        width: 500px;
         margin: center;
     }
 
